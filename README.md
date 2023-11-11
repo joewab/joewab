@@ -1,7 +1,9 @@
 # Hello, I'm Joe Anthony-Brown 👋
+
 ## Thanks for visiting my github profile
+
 I'm a software developer from New York, currently living in Minneapolis.
-I enjoy making art, traveling, games, and of course writing code!
+I enjoy making art, traveling, games (tabletop and video), and of course writing code!
 
 <!--
 **joewab/joewab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
