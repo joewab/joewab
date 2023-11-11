@@ -11,6 +11,8 @@ While I can't show off the majority of my professional work here, I can share a 
 
 Please find descriptions of a few projects I have worked on below. The corresponding repositories are also here in github. I hope you enjoy!
 
+## Get SmArt
+
 <!--
 **joewab/joewab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
