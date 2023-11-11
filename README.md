@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello, I'm Joe Anthony-Brown 👋
+## Thanks for visiting my github profile
+# please feel free to have a look at my repos
+# below I have spotlightled a few projects, enjoy!
 
 <!--
 **joewab/joewab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
