@@ -18,18 +18,19 @@ I've taken a lot of art history exams in my life, for which I had to memorize a 
 I created GetSmArt to help art history instructors create more well-defined expectations for their students, and to make it easier and more fun for students to study for their upcoming exams!
 
 
-
 https://github.com/joewab/joewab/assets/45957019/21246fd8-6b52-40fc-88e2-95f65b1bb87b
 
 
 When you register, you will need to identify yourself as a student or instructor. In this video you can see what it looks like to sign in as an instructor who has already created a few galleries of images for their students.
 
 
-<video width="900" height="600" controls>
-  <source src="./videos/getSmartVid2.mp4" type="video/mp4">
-</video>
+https://github.com/joewab/joewab/assets/45957019/f8ca9945-0515-4b60-b838-ccf2e8900503
+
 
 For each class, an instructor can create any number of galleries. All of the images and information they enter into these galleries can be easily altered or removed.
+
+
+https://github.com/joewab/joewab/assets/45957019/af275c2d-52f1-44bb-ac3a-0dcbf0ac4b75
 
 
 ...more to come
