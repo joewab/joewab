@@ -22,11 +22,6 @@ I created GetSmArt to help art history instructors create more well-defined expe
 https://github.com/joewab/joewab/assets/45957019/21246fd8-6b52-40fc-88e2-95f65b1bb87b
 
 
-
-<video width="600" height="400" controls>
-  <source src="./videos/getSmartVid1small.mp4" type="video/mp4">
-</video>
-
 When you register, you will need to identify yourself as a student or instructor. In this video you can see what it looks like to sign in as an instructor who has already created a few galleries of images for their students.
 
 
