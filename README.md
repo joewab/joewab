@@ -19,7 +19,7 @@ I created GetSmArt to help art history instructors create more well-defined expe
 
 
 
-<video width="900" height="600" controls>
+<video width="600" height="400" controls>
   <source src="./videos/getSmartVid1small.mp4" type="video/mp4">
 </video>
 
