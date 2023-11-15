@@ -13,6 +13,8 @@ Please find descriptions of a few projects I have worked on below. The correspon
 
 ## Get SmArt
 
+./videos/getSmartVid1.mp4
+
 <!--
 **joewab/joewab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
