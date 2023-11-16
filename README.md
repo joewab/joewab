@@ -41,14 +41,15 @@ I worked with a small group of developers to create this app for a client. The v
 
 AllyX is a service that connects users to vetted volunteers in safe, casual phone conversations. For example, if you were walking home from a party or a night out and would feel safer with someone to talk to, or are just kinda bored, you could use AllyX to request a phone conversation with one of their vetted allies.
 
-
-
+https://github.com/joewab/joewab/assets/45957019/bafc14ea-0b31-4760-b784-7ef388b3e3b9
 
 As a volunteer ally, you can view calls that have been requested, in order of those that have been waiting the longest. Once you choose one, you are prompted to start the call. Afterwards, both the ally and the user are prompted to leave a review of their experience.
 
-
+https://github.com/joewab/joewab/assets/45957019/b75f4e5b-e254-4e27-a32b-65cfb80117ad
 
 As an administrator, AllyX offers an overall view of all of the users, allies, reviews, and calls.
+
+https://github.com/joewab/joewab/assets/45957019/23246753-7752-4a53-9753-476e3eab27c9
 
 ...more to come
 
