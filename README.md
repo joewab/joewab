@@ -35,6 +35,21 @@ For each class, an instructor can create any number of galleries. All of the ima
 https://github.com/joewab/joewab/assets/45957019/af275c2d-52f1-44bb-ac3a-0dcbf0ac4b75
 
 
+## AllyX - A walking companion on your phone.
+
+I worked with a small group of developers to create this app for a client. The videos below do not represent the final product, but they are pretty close to it.
+
+AllyX is a service that connects users to vetted volunteers in safe, casual phone conversations. For example, if you were walking home from a party or a night out and would feel safer with someone to talk to, or are just kinda bored, you could use AllyX to request a phone conversation with one of their vetted allies.
+
+
+
+
+As a volunteer ally, you can view calls that have been requested, in order of those that have been waiting the longest. Once you choose one, you are prompted to start the call. Afterwards, both the ally and the user are prompted to leave a review of their experience.
+
+
+
+As an administrator, AllyX offers an overall view of all of the users, allies, reviews, and calls.
+
 ...more to come
 
 
