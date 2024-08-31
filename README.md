@@ -1,8 +1,6 @@
 # Hello, I'm Joe Anthony-Brown 👋
 
-## Thanks for visiting my github profile ☺️
-
-I'm a software developer from New York, currently living in Minneapolis.
+I'm a software developer from New York.
 I enjoy making art, traveling, and games (tabletop and video).
 
 I also really enjoy creating applications and working on interesting projects with other people.
